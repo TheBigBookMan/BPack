@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS bpack;
+CREATE DATABASE bpack;
+USE bpack;
